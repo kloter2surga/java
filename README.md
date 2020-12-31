@@ -4,4 +4,11 @@ Java is a class-based, object-oriented programming language that is designed to 
 source : [wikipedia](https://en.wikipedia.org/wiki/Java_(programming_language))
 
 ## table content
-- [binary tree tranversal](https://github.com/kloter2surga/java/tree/main/binaryTreeTranversal)
+- [algorithm](https://github.com/kloter2surga/java/tree/main/algo)
+  - [dynamic programming](https://github.com/kloter2surga/java/tree/main/algo/dynamicProgramming)
+  - [sorting](https://github.com/kloter2surga/java/tree/main/algo/sorting)
+- [backtracking](https://github.com/kloter2surga/java/tree/main/backtracking)
+- [chiper](https://github.com/kloter2surga/java/tree/main/chiper)
+- [data structure](https://github.com/kloter2surga/java/tree/main/dataStructure)
+- [graph](https://github.com/kloter2surga/java/tree/main/graph_algorithm)
+- [hashing](https://github.com/kloter2surga/java/tree/main/hashing)
