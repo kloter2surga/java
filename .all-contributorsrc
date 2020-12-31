@@ -15,6 +15,15 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "lamon442",
+      "name": "erick delamon",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/75076265?v=4",
+      "profile": "https://github.com/lamon442",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
