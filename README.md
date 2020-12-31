@@ -3,6 +3,7 @@ Java is a class-based, object-oriented programming language that is designed to 
 
 source : [wikipedia](https://en.wikipedia.org/wiki/Java_(programming_language))
 
+# algorithm content
 ## table content
 - [algorithm](https://github.com/kloter2surga/java/tree/main/algo)
   - [dynamic programming](https://github.com/kloter2surga/java/tree/main/algo/dynamicProgramming)
@@ -13,3 +14,6 @@ source : [wikipedia](https://en.wikipedia.org/wiki/Java_(programming_language))
 - [graph](https://github.com/kloter2surga/java/tree/main/graph_algorithm)
 - [hashing](https://github.com/kloter2surga/java/tree/main/hashing)
 - [networking](https://github.com/kloter2surga/java/tree/main/networking)
+
+# other content
+## table content
