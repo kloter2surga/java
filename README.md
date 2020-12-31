@@ -1,6 +1,6 @@
 # java
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Java is a class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let application developers write once, run anywhere (WORA),meaning that compiled Java code can run on all platforms that support Java without the need for recompilation.Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of the underlying computer architecture.
 
@@ -33,6 +33,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="http://instagram.com/zulfikriry5"><img src="https://avatars3.githubusercontent.com/u/50226344?v=4" width="100px;" alt=""/><br /><sub><b>Zulfikri Ramadhan Yoga</b></sub></a><br /><a href="#infra-ctrlbzul5" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/kloter2surga/java/commits?author=ctrlbzul5" title="Tests">⚠️</a> <a href="https://github.com/kloter2surga/java/commits?author=ctrlbzul5" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/lamon442"><img src="https://avatars3.githubusercontent.com/u/75076265?v=4" width="100px;" alt=""/><br /><sub><b>erick delamon</b></sub></a><br /><a href="https://github.com/kloter2surga/java/commits?author=lamon442" title="Code">💻</a></td>
   </tr>
 </table>
 
