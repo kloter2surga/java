@@ -1,6 +1,6 @@
 # java
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=for-the-badge)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Java is a class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let application developers write once, run anywhere (WORA),meaning that compiled Java code can run on all platforms that support Java without the need for recompilation.Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of the underlying computer architecture.
 
@@ -22,6 +22,7 @@ source : [wikipedia](https://en.wikipedia.org/wiki/Java_(programming_language))
 ## table content
 - [atm machine](https://github.com/kloter2surga/java/tree/main/atmMachine)
 - [hotel management](https://github.com/kloter2surga/java/tree/main/hotelManagement)
+- [tic tac toe](https://github.com/kloter2surga/java/tree/main/ticTacToe)
 
 ## Contributors ✨
 
