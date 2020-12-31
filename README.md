@@ -17,3 +17,5 @@ source : [wikipedia](https://en.wikipedia.org/wiki/Java_(programming_language))
 
 # other content
 ## table content
+- [atm machine](https://github.com/kloter2surga/java/tree/main/atmMachine)
+- [hotel management](https://github.com/kloter2surga/java/tree/main/hotelManagement)
