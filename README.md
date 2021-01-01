@@ -34,7 +34,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="http://instagram.com/zulfikriry5"><img src="https://avatars3.githubusercontent.com/u/50226344?v=4" width="100px;" alt=""/><br /><sub><b>Zulfikri Ramadhan Yoga</b></sub></a><br /><a href="#infra-ctrlbzul5" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/kloter2surga/java/commits?author=ctrlbzul5" title="Tests">⚠️</a> <a href="https://github.com/kloter2surga/java/commits?author=ctrlbzul5" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/lamon442"><img src="https://avatars3.githubusercontent.com/u/75076265?v=4" width="100px;" alt=""/><br /><sub><b>erick delamon</b></sub></a><br /><a href="https://github.com/kloter2surga/java/commits?author=lamon442" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/khairanabila"><img src="https://avatars3.githubusercontent.com/u/75076265?v=4" width="100px;" alt=""/><br /><sub><b>erick delamon</b></sub></a><br /><a href="https://github.com/kloter2surga/java/commits?author=khairanabila" title="Code">💻</a></td>
   </tr>
 </table>
 
