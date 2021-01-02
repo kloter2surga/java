@@ -36,7 +36,7 @@ jobs:
       - save_cache:
           paths:
             - ~/.gradle
-          key: v1-dependencies-{{ checksum "build.gradle" }}
+          key: v1-dependencies-{{ checksum "composer.json" }}
 
       # run tests!
       - run: gradle test
