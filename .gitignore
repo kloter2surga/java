@@ -13,7 +13,6 @@ out/
 # gradle
 .gradle/
 gradle-app.setting
-!gradle-wrapper.jar
 build/
 
 local.properties
