@@ -1,6 +1,6 @@
-os: linux
-dist: focal
+install: gradle wrapper --gradle-version 4.2
+
 language: java
-script:
-  - find . -type f -name "*.java" > sources.txt
-  - javac -Xlint:deprecation -Xlint:unchecked @sources.txt
+
+jdk:
+  - oraclejdk8
