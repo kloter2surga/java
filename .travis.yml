@@ -1,1 +1,7 @@
-language: java
+install: ./install-dependencies.sh
+script:
+- bundle exec rake build
+- bundle exec rake builddoc
+script: ./scripts/run-tests.sh
+deploy:
+  skip_cleanup: true
