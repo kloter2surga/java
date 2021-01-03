@@ -2,12 +2,12 @@
 #
 # Check https://circleci.com/docs/2.0/language-java/ for more details
 #
-version: 2
-jobs:
-  build:
-    docker:
+#version: 2
+#jobs:
+  #build:
+    #docker:
       # specify the version you desire here
-      - image: circleci/openjdk:8-jdk
+      #- image: circleci/openjdk:8-jdk
 
       # Specify service dependencies here if necessary
       # CircleCI maintains a library of pre-built images
@@ -16,17 +16,28 @@ jobs:
 
 
 
-    environment:
+    #environment:
       # Customize the JVM maximum heap limit
-      JVM_OPTS: -Xmx3200m
-      TERM: dumb
+      #JVM_OPTS: -Xmx3200m
+      #TERM: dumb
 
-    steps:
-      - checkout
+    #steps:
+      #- checkout
 
       # Download and cache dependencies
-      - restore_cache:
-          keys:
-            - v1-dependencies-{{ checksum "build.gradle" }}
+      #- restore_cache:
+          #keys:
+            #- v1-dependencies-{{ checksum "build.gradle" }}
             # fallback to using the latest cache if no exact match is found
-            - v1-dependencies-
+            #- v1-dependencies-
+            
+version: 2.1
+
+orbs:
+  maven: circleci/maven@0.0.12
+
+workflows:
+  maven_test:
+    jobs:
+      - maven/test # checkout, build, test, and upload test results
+
