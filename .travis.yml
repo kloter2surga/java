@@ -1,0 +1,6 @@
+os: linux
+dist: focal
+language: java
+script:
+  - find . -type f -name "*.java" > sources.txt
+  - javac -Xlint:deprecation -Xlint:unchecked @sources.txt
