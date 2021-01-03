@@ -1,3 +1,37 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@slowy07 
+kloter2surga
+/
+java
+1
+0
+1
+Code
+Issues
+Pull requests
+1
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+java/.circleci/config.yml
+@slowy07
+slowy07 Update config.yml
+Latest commit 1f5b07c 4 minutes ago
+ History
+ 2 contributors
+@slowy07@prettifier
+30 lines (24 sloc)  788 Bytes
+ 
 version: 2
 jobs:
   build:
