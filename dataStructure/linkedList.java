@@ -16,7 +16,7 @@ public class linkedList {
     /**
      * Construtor da lista
      */
-    public LinkedList() {
+    public linkedList() {
         head = null;
         tail = null;
         count = 0;
