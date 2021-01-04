@@ -16,7 +16,7 @@ public class doubleLinkedListOfInteger {
         }
     }
 
-    public DoubleLinkedListOfInteger() {
+    public doubleLinkedListOfInteger() {
         header = new Node(null);
         trailer = new Node(null);
         header.next = trailer;
