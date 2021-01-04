@@ -2,7 +2,7 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-class segmentTree {
+class SegmentTree {
     int st[];
 
     Segment(int []arr, int n)
