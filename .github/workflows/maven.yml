@@ -20,4 +20,3 @@ jobs:
         with:
           java-version: 12
       - run: find . -type f -name "*.java" > sources.txt
-      - run: javac @sources.txt
