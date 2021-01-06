@@ -1,4 +1,0 @@
-requiredChecks:
-  - circleci
-  - travis-ci
-  - my-ci-check
